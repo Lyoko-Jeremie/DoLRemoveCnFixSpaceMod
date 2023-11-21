@@ -1,0 +1,26 @@
+{
+  "name": "DoLRemoveCnFixSpace",
+  "version": "1.0.0",
+  "styleFileList": [
+    "DoLRemoveCnFixSpace.css"
+  ],
+  "scriptFileList_earlyload": [
+  ],
+  "scriptFileList_inject_early": [
+  ],
+  "scriptFileList_preload": [
+  ],
+  "scriptFileList": [
+  ],
+  "tweeFileList": [
+  ],
+  "imgFileList": [
+  ],
+  "additionFile": [
+    "readme.txt"
+  ],
+  "addonPlugin": [
+  ],
+  "dependenceInfo": [
+  ]
+}
