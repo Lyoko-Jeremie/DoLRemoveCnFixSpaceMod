@@ -1,7 +1,9 @@
 ﻿
-/* DoLRemoveCnFixSpace.css*/
-
 #story {
+    word-spacing: -0.2em;
+}
+
+#passages {
     word-spacing: -0.2em;
 }
 
